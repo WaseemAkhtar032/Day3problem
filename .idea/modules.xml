@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Day3problems.iml" filepath="$PROJECT_DIR$/Day3problems.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/EmployeeWageComputation.iml" filepath="$PROJECT_DIR$/EmployeeWageComputation.iml" />
+>>>>>>> EmployeeWage
     </modules>
   </component>
 </project>
